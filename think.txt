@@ -1,0 +1,6 @@
+compteur 2 !> compteur 1
+SI COMPTEUR 1 ET 2 === 
+ALORS
+COMPTEUR 1 ET 2 ++ ET --
+
+compteur 0<100
